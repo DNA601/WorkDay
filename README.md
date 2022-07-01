@@ -30,12 +30,10 @@ Goolgle chrome browser is prefered when running the page.
 # Created by
 David Navarrete Ayala. 
 
-https://github.com/DNA601/timed-quiz
 
 # link
 
-
-
+https://dna601.github.io/WorkDay/
 
 # Credits to... 
 https://www.w3schools.com/jsref/prop_win_localstorage.asp
